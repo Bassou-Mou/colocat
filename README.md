@@ -2,7 +2,7 @@
 🏠 ColoCat – Plateforme de gestion de colocation
 🎯 Objectif : Développer une application Java orientée objet pour simplifier la gestion des colocations 👫👬👭.
 
-📱 Fonctionnalités clés :
+Fonctionnalités clés :
 
 🔐 Authentification sécurisée et gestion de colocation
 
@@ -14,7 +14,7 @@
 
 🛋️ Réservation d’espaces communs avec détection des conflits
 
-🏗️ Architecture logicielle :
+Architecture logicielle :
 
 🧩 Découpage en packages (login, événements, incidents, réservations)
 
@@ -26,10 +26,10 @@
 
 🛠️ Interface Java Swing ergonomique et intuitive
 
-🤝 Travail d'équipe :
+Travail d'équipe :
 
 👨‍💻 Méthodologie agile (Scrum inspiré)
 
 📌 Trello, Git, GitHub, GitLab pour la gestion collaborative
 
-🛠️ Technos : Java, Swing, Git, UML, Agile
+Technos : Java, Swing, Git, UML, Agile
