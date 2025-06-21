@@ -32,24 +32,4 @@
 
 📌 Trello, Git, GitHub, GitLab pour la gestion collaborative
 
-🎥 Réunions régulières (Google Meet, partages d’écran)
-
-🚧 Défis relevés :
-
-🔄 Gestion de la persistance et des conflits de dates
-
-🎨 Synchronisation des interfaces
-
-♻️ Architecture évolutive pour les nouvelles fonctionnalités
-
-🚀 Pistes d'amélioration :
-
-🔔 Notifications push
-
-📩 Module de messagerie interne
-
-📱 Version mobile responsive
-
-💳 Intégration des paiements en ligne
-
 🛠️ Technos : Java, Swing, Git, UML, Agile
